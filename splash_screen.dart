@@ -1,7 +1,3 @@
-# tempter
-Date App
-Przykładowe storny, zdjecia oraz kody z aplkacji rankowej Tempter date APP.
-Pokazane na dole kod pokazuje łaczenie z bazą danych podczas logowania. 
 
  Future<void> _addOrUpdateSession(User user) async {
     String currentDeviceId = 'unknown';
